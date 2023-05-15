@@ -10,5 +10,5 @@ Before my transition into tech I joined the Army at 18, and spent my time as a ð
 
 In my free time I like to go fishing, ride dirtbikes, snowboard and learn more about tech.
 
-![[github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Ronnie455)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Ronnie455)
 
